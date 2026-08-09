@@ -1,4 +1,4 @@
-# File Catalyst Take-home
+# Programming challenge 
 ## Objectives
 1) Write a tool which accepts a millisecond-format timestamp (e.g. 1559153538243, 1559153537352) 
 and returns a human-readable string. 
