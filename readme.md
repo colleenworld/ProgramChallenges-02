@@ -6,7 +6,7 @@ and returns a human-readable string.
 You can use any graphing library you wish. 
 
 ## About this project
-
+This was a programming challenge from a job interview in 2020. I've kept it here, as it's a good model for this type of exercise. 
 
 ## How to access this project
 Before you start, you will need to have Node.js and Mocha installed, 
